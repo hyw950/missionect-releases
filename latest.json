@@ -1,6 +1,6 @@
 {
   "version": "1.0.0+5",
-  "publishedAt": "2026-09-29T07:31:34Z",
+  "publishedAt": "2026-09-29T07:35:30Z",
   "artifacts": [
     {
       "platform": "macos",
@@ -13,18 +13,6 @@
       "url": "https://github.com/hyw950/missionect-releases/releases/download/v1.0.0%2B5/Missionect-1.0.0%2B5-macos-arm64.dmg",
       "productName": "Missionect",
       "description": "미션을 계획하고 일상을 기록하는 메인 앱입니다."
-    },
-    {
-      "productName": "AI 미션 브릿지",
-      "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
-      "platform": "windows",
-      "architecture": "x64",
-      "version": "1.0.6+7",
-      "fileSizeBytes": 165743400,
-      "publishedAt": "2026-09-23T03:16:45Z",
-      "minimumOsVersion": "Windows 10 1809 (64-bit)",
-      "sha256": "759d54b05fc0eb41b17f8be649727d6b40dc40271d79d11d0b60ab5b62d4bb5c",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.6%2B7/Missionect-Bridge-1.0.6-windows-x64.exe"
     },
     {
       "productName": "AI 미션 브릿지",
@@ -49,6 +37,18 @@
       "minimumOsVersion": "Windows 10 1809 (64-bit)",
       "sha256": "4f0625ebb2b29855938b2da8c572b5fe4d966a54692edcf5342bc47057ab43d4",
       "url": "https://github.com/hyw950/missionect-releases/releases/download/windows-v1.0.0%2B7/MissionectSetup-1.0.0-7-windows-x64.exe"
+    },
+    {
+      "productName": "AI 미션 브릿지",
+      "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
+      "platform": "windows",
+      "architecture": "x64",
+      "version": "1.0.11+12",
+      "fileSizeBytes": 166170472,
+      "publishedAt": "2026-09-29T07:35:30Z",
+      "minimumOsVersion": "Windows 10 1809 (64-bit)",
+      "sha256": "859534b9bf6ba2108d9a32a5f71f4f44ac4da4a861a8587c9e5ffc41590a325d",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.11%2B12/Missionect-Bridge-1.0.11-windows-x64.exe"
     }
   ]
 }
