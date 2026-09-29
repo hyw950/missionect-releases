@@ -1,6 +1,6 @@
 {
   "version": "1.0.0+10",
-  "publishedAt": "2026-09-29T12:53:52.618915+00:00",
+  "publishedAt": "2026-09-29T13:54:18Z",
   "artifacts": [
     {
       "platform": "macos",
@@ -27,28 +27,28 @@
       "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-v1.0.12%2B13/Missionect-Bridge-1.0.12%2B13-macos-arm64.dmg"
     },
     {
-      "productName": "AI 미션 브릿지",
-      "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
-      "platform": "windows",
-      "architecture": "x64",
-      "version": "1.0.12+13",
-      "fileSizeBytes": 166171032,
-      "publishedAt": "2026-09-29T07:56:07Z",
-      "minimumOsVersion": "Windows 10 1809 (64-bit)",
-      "sha256": "3c7da7433261f33a710dcbdc45c8996080c8d47a0a0286a75a0b662222d62410",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.12%2B13/Missionect-Bridge-1.0.12-windows-x64.exe"
-    },
-    {
       "productName": "Missionect",
       "description": "미션을 계획하고 일상을 기록하는 메인 앱입니다.",
       "platform": "windows",
       "architecture": "x64",
-      "version": "1.0.0+9",
-      "fileSizeBytes": 15337160,
-      "publishedAt": "2026-09-29T11:20:15Z",
+      "version": "1.0.0+10",
+      "fileSizeBytes": 15377616,
+      "publishedAt": "2026-09-29T13:53:53Z",
       "minimumOsVersion": "Windows 10 1809 (64-bit)",
-      "sha256": "c90022d262e245107f28d77b108c5636f2244c240a42982432c522e4a60ad0bf",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/windows-v1.0.0%2B9/MissionectSetup-1.0.0-9-windows-x64.exe"
+      "sha256": "743ffb72a4134da46b6679b94f76df5436754b8a3fcf09680887e7a0127c0d6b",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/windows-v1.0.0%2B10/MissionectSetup-1.0.0-10-windows-x64.exe"
+    },
+    {
+      "productName": "AI 미션 브릿지",
+      "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
+      "platform": "windows",
+      "architecture": "x64",
+      "version": "1.0.13+14",
+      "fileSizeBytes": 166177904,
+      "publishedAt": "2026-09-29T13:54:18Z",
+      "minimumOsVersion": "Windows 10 1809 (64-bit)",
+      "sha256": "0f63e499d6eea22efe9a0b501bcf5e40f41c608ffb554f8c5bb9f51419459fd1",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.13%2B14/Missionect-Bridge-1.0.13-windows-x64.exe"
     }
   ]
 }
