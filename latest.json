@@ -19,12 +19,12 @@
       "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
       "platform": "macos",
       "architecture": "arm64",
-      "version": "1.0.12+13",
-      "fileSizeBytes": 189550089,
-      "sha256": "c8d2e573f2ac0eee864d2e9b28fe5bcf1a1ab0a5b2b55b8bc0a896131cbdacd0",
+      "version": "1.0.13+14",
+      "fileSizeBytes": 189549881,
+      "sha256": "1f493790b34461796cac5de784e9b0148c8c8c3566e072d6d15a6c4ea28d2833",
       "minimumOsVersion": "macOS 15.0",
-      "publishedAt": "2026-09-29T12:58:18.058591+00:00",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-v1.0.12%2B13/Missionect-Bridge-1.0.12%2B13-macos-arm64.dmg"
+      "publishedAt": "2026-09-30T07:52:42.675309+00:00",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-v1.0.13%2B14/Missionect-Bridge-1.0.13%2B14-macos-arm64.dmg"
     },
     {
       "productName": "Missionect",
