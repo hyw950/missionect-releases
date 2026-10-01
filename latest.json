@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0+18",
-  "publishedAt": "2026-10-01T07:51:01.292223+00:00",
+  "version": "1.0.0+19",
+  "publishedAt": "2026-10-01T08:16:27.932432+00:00",
   "artifacts": [
     {
       "platform": "macos",
       "architecture": "arm64",
-      "version": "1.0.0+18",
-      "fileSizeBytes": 21744829,
-      "publishedAt": "2026-10-01T07:51:01.292223+00:00",
+      "version": "1.0.0+19",
+      "fileSizeBytes": 21734749,
+      "publishedAt": "2026-10-01T08:16:27.932432+00:00",
       "minimumOsVersion": "macOS 12.0",
-      "sha256": "70beb717b22a4c11457a34313ca2cd5cc23510ed96260963dafd2165356ae41d",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/v1.0.0%2B18/Missionect-1.0.0%2B18-macos-arm64.dmg",
+      "sha256": "df4da6084053c07ced1084eb656ca7faf8f16db4e8d4ee9f7eeaf6c6a58fda08",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/v1.0.0%2B19/Missionect-1.0.0%2B19-macos-arm64.dmg",
       "productName": "Missionect",
       "description": "미션을 계획하고 일상을 기록하는 메인 앱입니다."
     },
