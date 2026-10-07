@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0+24",
-  "publishedAt": "2026-10-02T07:25:32Z",
+  "version": "1.0.0+26",
+  "publishedAt": "2026-10-07T04:04:39Z",
   "artifacts": [
     {
       "platform": "macos",
       "architecture": "arm64",
-      "version": "1.0.0+24",
-      "fileSizeBytes": 22705173,
-      "publishedAt": "2026-10-02T07:25:32Z",
+      "version": "1.0.0+26",
+      "fileSizeBytes": 27921167,
+      "publishedAt": "2026-10-07T04:04:39Z",
       "minimumOsVersion": "macOS 12.0",
-      "sha256": "c3664b69ad8e1ca0522a065a338d248da8522a07021b0dba9bcaf25cf5d87639",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/v1.0.0%2B24/Missionect-1.0.0%2B24-macos-arm64.dmg",
+      "sha256": "caed8416dba2b463d5413a6f7abe1a3fbefd59f341a7b94d5ecceed96fa4e99b",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/v1.0.0%2B26/Missionect-1.0.0%2B26-macos-arm64.dmg",
       "productName": "Missionect",
       "description": "미션을 계획하고 일상을 기록하는 메인 앱입니다."
     },
@@ -19,12 +19,12 @@
       "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
       "platform": "macos",
       "architecture": "arm64",
-      "version": "1.0.20+21",
-      "fileSizeBytes": 190574786,
-      "sha256": "ee4e2558703da0b27f95609e5aadd00c920712150c9868dc1f8dd4e41d39464a",
+      "version": "1.0.21+22",
+      "fileSizeBytes": 190010136,
+      "sha256": "e71c7f3ab1d8464e3fb57f767878bbb1df88c2db81fd2c6051a821f51ee463dd",
       "minimumOsVersion": "macOS 15.0",
-      "publishedAt": "2026-10-02T07:25:44Z",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-v1.0.20%2B21/Missionect-Bridge-1.0.20%2B21-macos-arm64.dmg"
+      "publishedAt": "2026-10-07T04:04:45Z",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-v1.0.21%2B22/Missionect-Bridge-1.0.21%2B22-macos-arm64.dmg"
     },
     {
       "productName": "AI 미션 브릿지",
