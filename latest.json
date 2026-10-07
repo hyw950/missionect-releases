@@ -31,12 +31,12 @@
       "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
       "platform": "windows",
       "architecture": "x64",
-      "version": "1.0.20+21",
-      "fileSizeBytes": 166467672,
-      "publishedAt": "2026-10-02T06:59:08Z",
+      "version": "1.0.21+22",
+      "fileSizeBytes": 166468768,
+      "publishedAt": "2026-10-07T04:01:19Z",
       "minimumOsVersion": "Windows 10 1809 (64-bit)",
-      "sha256": "a53a5f14c57eef6108b0813665a48c1f2168bc52b63cf896b737d6f2d3522c70",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.20%2B21/Missionect-Bridge-1.0.20-windows-x64.exe"
+      "sha256": "abde9be3673be2af125410b9dac12579089f540cf0768b4b73e2f2344ffb254f",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.21%2B22/Missionect-Bridge-1.0.21-windows-x64.exe"
     },
     {
       "productName": "Missionect",
