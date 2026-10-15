@@ -1,6 +1,6 @@
 {
   "version": "1.0.0+34",
-  "publishedAt": "2026-10-15T06:04:28.811793Z",
+  "publishedAt": "2026-10-15T06:26:23Z",
   "artifacts": [
     {
       "platform": "macos",
@@ -43,12 +43,12 @@
       "description": "이 PC의 Codex를 Missionect AI 미션에 연결하는 보조 앱입니다.",
       "platform": "windows",
       "architecture": "x64",
-      "version": "1.0.30+31",
-      "fileSizeBytes": 187873048,
-      "publishedAt": "2026-10-15T05:24:02Z",
+      "version": "1.0.31+32",
+      "fileSizeBytes": 188047536,
+      "publishedAt": "2026-10-15T06:26:23Z",
       "minimumOsVersion": "Windows 10 1809 (64-bit)",
-      "sha256": "751712deb1ecd0afc40f4d9d60821307d5285a340e06f78cd31b9e898cc630fc",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.30%2B31/Missionect-Bridge-1.0.30-windows-x64.exe"
+      "sha256": "a46ac7dcf5d105d29fc74273778b6164bb2447bc8107222deba8edb7124a1c22",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/bridge-windows-v1.0.31%2B32/Missionect-Bridge-1.0.31-windows-x64.exe"
     }
   ]
 }
