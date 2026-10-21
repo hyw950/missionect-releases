@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Missionect macOS updates</title>
+    <item>
+      <title>Missionect 1.0.0+38</title>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/hyw950/missionect-releases/releases/download/v1.0.0%2B38/Missionect-1.0.0%2B38-macos-arm64.dmg" length="31068438" type="application/octet-stream" sparkle:edSignature="Oa9WTWX2CWWCLP5L5cdzjtdRNEd6/dOOFHji3FY9LXQBS/vXjhqrJJbqkdP+bHzPjioKDUfgkSOYJHUvz08uCw==" />
+    </item>
+  </channel>
+</rss>
