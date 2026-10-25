@@ -3,6 +3,13 @@
   <channel>
     <title>Missionect macOS updates</title>
     <item>
+      <title>Missionect 1.0.0+42</title>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/hyw950/missionect-releases/releases/download/v1.0.0%2B42/Missionect-1.0.0%2B42-macos-arm64.dmg" length="31368031" type="application/octet-stream" sparkle:edSignature="LR9tt17Qp1o8x6bit3l1qnhuX0kwMC3q6WBrDs8AK0V/zmaW334Sw3fvhAV3O+AnOFUTiqnMZkXkV3Srod1iCQ==" />
+    </item>
+    <item>
       <title>Missionect 1.0.0+41</title>
       <sparkle:version>41</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
