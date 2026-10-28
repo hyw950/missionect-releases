@@ -1,6 +1,6 @@
 {
   "version": "1.0.0+45",
-  "publishedAt": "2026-10-26T02:18:21.662435+00:00",
+  "publishedAt": "2026-10-28T02:25:21Z",
   "artifacts": [
     {
       "platform": "macos",
@@ -43,12 +43,12 @@
       "description": "미션을 계획하고 일상을 기록하는 메인 앱입니다.",
       "platform": "windows",
       "architecture": "x64",
-      "version": "1.0.0+45",
-      "fileSizeBytes": 21790168,
-      "publishedAt": "2026-10-26T02:05:55Z",
+      "version": "1.0.0+46",
+      "fileSizeBytes": 70276016,
+      "publishedAt": "2026-10-28T02:25:21Z",
       "minimumOsVersion": "Windows 10 1809 (64-bit)",
-      "sha256": "474175f158335f447c996d7c07d7584f17e5b51c7bb7d7261060ffcd624c9758",
-      "url": "https://github.com/hyw950/missionect-releases/releases/download/windows-v1.0.0%2B45/MissionectSetup-1.0.0-45-windows-x64.exe"
+      "sha256": "aa02b522ab0eee475d9a045616a97eed481ba10b4dfa7d72cf28e9a1b14923cd",
+      "url": "https://github.com/hyw950/missionect-releases/releases/download/windows-v1.0.0%2B46/MissionectSetup-1.0.0-46-windows-x64.exe"
     }
   ]
 }
